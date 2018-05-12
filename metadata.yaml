@@ -1,0 +1,48 @@
+_repo: Harper-s-Pictorial-Library-of-the-World-War-Volume-XIIThe-Great-Results-of-the-War_44213
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Fisher, Irving
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '8773'
+    url: http://www.gutenberg.org/2009/agents/8773
+    wikipedia: https://en.wikipedia.org/wiki/Irving_Fisher
+covers:
+- cover_type: archival
+  image_path: 44213-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Bevan, W. Lloyd (Wilson Lloyd)
+    aliases:
+    - Bevan, W. L.
+    - Bevan, Wilson L.
+    - Bevan, Wilson Lloyd
+    birthdate: 1866
+    deathdate: 1935
+    gutenberg_agent_id: '42637'
+    url: http://www.gutenberg.org/2009/agents/42637
+  - agent_name: Wendel, Hugo Christian Martin
+    alias: Wendel, Hugo C. M.
+    gutenberg_agent_id: '42638'
+    url: http://www.gutenberg.org/2009/agents/42638
+description: ''
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'League of Nations'
+- !lcsh 'World War, 1914-1918 -- Economic aspects'
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Finance'
+- !lcsh 'Treaty of Versailles (1919 June 28)'
+title: 'Harper''s Pictorial Library of the World War, Volume XII
+
+  The Great Results of the War'
+url: http://www.gutenberg.org/ebooks/44213
